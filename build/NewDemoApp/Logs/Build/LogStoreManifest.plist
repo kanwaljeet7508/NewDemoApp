@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2675275E-DD65-4FD2-A938-5ECF82C2A37C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2675275E-DD65-4FD2-A938-5ECF82C2A37C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace NewDemoApp with scheme NewDemoApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>597323687.57482898</real>
+			<key>timeStoppedRecording</key>
+			<real>597323698.61144698</real>
+			<key>title</key>
+			<string>Building workspace NewDemoApp with scheme NewDemoApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>2675275E-DD65-4FD2-A938-5ECF82C2A37C</string>
+		</dict>
+		<key>F3047342-D755-4029-B78B-EFE2137A4577</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F3047342-D755-4029-B78B-EFE2137A4577.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace NewDemoApp with scheme NewDemoApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>597565386.16694403</real>
+			<key>timeStoppedRecording</key>
+			<real>597565387.37951398</real>
+			<key>title</key>
+			<string>Building workspace NewDemoApp with scheme NewDemoApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F3047342-D755-4029-B78B-EFE2137A4577</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
